@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/font/actor.xml" value="0.28020833333333334" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_gia_dung1.xml" value="0.264" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_gia_dung2.xml" value="0.25" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_gia_dung3.xml" value="0.264" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_gia_dung4.xml" value="0.264" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_gia_dung5.xml" value="0.264" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_gia_dung6.xml" value="0.2359375" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_list_view.xml" value="0.25" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/fragment_list_view.xml" value="0.21195652173913043" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/fragment_profile.xml" value="0.23958333333333334" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/layout/giadung_layout.xml" value="0.2359375" />
+        <entry key="..\:/Git/BT_Tuan4_TaoLuongGiaoDien_Profile_SignIn_SignUp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/GiaoDienProfile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/GiaoDienProfile/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/GiaoDienProfile/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/GiaoDienProfile/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

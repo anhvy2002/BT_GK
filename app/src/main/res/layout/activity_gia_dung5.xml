@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".GiaDung_Activity_5">
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="#FFFFFF"
+        app:srcCompat="@drawable/ic_baseline_arrow_back_24" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thông tin chi tiết"
+        android:textAlignment="center"
+        android:textColor="#031781"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/gd5" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Máy lọc nước"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="false"
+        android:layout_centerVertical="false"
+        android:text="Giá: 6.150.000 VNĐ"
+        android:textAlignment="center"
+        android:textColor="#FF0000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Đặc điểm nổi bật"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:text="- Máy lọc nước RO Kangaroo KG10A3 10 lõi có thiết kế hiện đại, sang trọng, sử dụng được trong gia đình như phòng khách, nhà bếp hoặc dùng trong văn phòng, nhà hàng, khách sạn "
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:text="- Máy lọc nước Kangaroo có khả năng lọc lên đến 10 - 12 lít/giờ, trong đó dung tích bình nước nóng 0.8 lít, nước thường 8 lít, nước lạnh 0.8 lít"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:text="- Máy có tỷ lệ lọc - thải là 30/70 thu hồi 30% nước tinh khiết"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:text="- Máy lọc nước sử dụng công nghệ lọc RO cùng hệ thống 10 cấp lọc nước tạo ra nguồn nước sạch và đầy đủ khoáng chất"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+</LinearLayout>
